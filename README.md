@@ -121,7 +121,6 @@ Please refer to the [developer documentation](https://github.com/wekan/wekan/wik
 
 [![Screenshot of WeKan ®][screenshot_wekan]][roadmap_wekan]
 
-## License
 
 WeKan ® is released under the very permissive [MIT license](LICENSE), and made
 with [Meteor](https://www.meteor.com).
